@@ -1,4 +1,4 @@
-name = "vmail"
+name = "aged-waterfall-6f0e"
 main = "worker/src/index.ts"
 
 # 打包配置
